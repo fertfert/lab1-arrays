@@ -1,0 +1,6 @@
+Python 3.12.14
+Windows-10-10.0.19045-SP0
+Clock: time.perf_counter
+Repeats: 5
+Searches per repeat: 100
+GC: collected before each timed batch, enabled during batch
